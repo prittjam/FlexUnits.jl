@@ -21,6 +21,7 @@ include("test_statistics.jl")
 
 include("test_registry_currency.jl")
 include("test_registry_rational.jl")
+include("test_rational_float_rule.jl")
 
 include("test_ode_falling.jl")
 include("test_ode_stiction.jl")
